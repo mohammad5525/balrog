@@ -125,7 +125,7 @@ blinker==1.9.0 \
     --hash=sha256:b4ce2265a7abece45e7cc896e98dbebe6cead56bcf805a3d23136d145f5445bf \
     --hash=sha256:ba0efaa9080b619ff2f3459d1d500c57bddea4a6b424b60a91141db6fd2f08bc
     # via sentry-sdk
-brotli==1.1.0 \
+brotli==1.2.0 \
     --hash=sha256:03d20af184290887bdea3f0f78c4f737d126c74dc2f3ccadf07e54ceca3bf208 \
     --hash=sha256:0541e747cce78e24ea12d69176f6a7ddb690e62c425e01d31cc065e69ce55b48 \
     --hash=sha256:069a121ac97412d1fe506da790b3e69f52254b9df4eb665cd42460c837193354 \
