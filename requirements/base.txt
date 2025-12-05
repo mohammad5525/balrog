@@ -1463,7 +1463,7 @@ urllib3==2.4.0 \
 uwsgi==2.0.29 \
     --hash=sha256:6bd150ae60d0d9947429ea7dc8e5f868de027e5eb38355fb613b9413732c432f
     # via -r requirements/base.in
-werkzeug==2.2.3 \
+werkzeug==3.1.4 \
     --hash=sha256:2e1ccc9417d4da358b9de6f174e3ac094391ea1d4fbef2d667865d819dfd0afe \
     --hash=sha256:56433961bc1f12533306c624f3be5e744389ac61d722175d543e1751285da612
     # via
